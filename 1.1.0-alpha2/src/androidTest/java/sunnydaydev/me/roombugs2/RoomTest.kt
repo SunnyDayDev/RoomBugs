@@ -23,6 +23,7 @@ class RoomTest {
 
     }
 
+    // Fixed in 1.1.0-alpha2
     @Test
     fun insert_nullable_with_null() {
 
